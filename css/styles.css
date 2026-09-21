@@ -1,22 +1,36 @@
 
 body{
-    background-color: #ff7c2f;
+    background-color: #ff8138;
     font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: #573737;
+    font-weight: 0;
 }
 
 h2{
     color: #BF0413;
 }
 
+p{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
 .burgers{
     color:#F2360C;
+    font-size: 1.1rem;
+    font-weight: 500;
 }
 
 .order{
     color:#b33000;
+    font-size: 1.1rem;
+    font-weight: 500;
 }
 
 .footer{
-    color:#573737;
+    color:#F2360C;
 }
 
