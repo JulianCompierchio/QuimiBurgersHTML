@@ -5,3 +5,5 @@ Aplicación web creada como práctica para aprender HTML, CSS, Git y GitHub.
 - CSS
 ## Cómo utilizarlo
 Cloná el repositorio y abrí el archivo index.html.
+## Autores 
+Compierchio Julian
